@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased (2026-11-16)
+
+- README: Deploy on Railway button for the published template `timescaledb-2`. No change to the database image or start script.
+
 ## 2.32.0-pg18 (2026-11-16)
 
 First release.

@@ -1,5 +1,7 @@
 # TimescaleDB on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/timescaledb-2?utm_medium=integration&utm_source=button&utm_campaign=timescaledb)
+
 Railway template for [TimescaleDB](https://github.com/timescale/timescaledb), the PostgreSQL extension for time-series data, running on PostgreSQL 18.
 
 This repo is what the template builds: a `Dockerfile` that pins the official image `timescale/timescaledb:2.32.0-pg18` by digest, plus a small start script (`railway-entrypoint.sh`).
